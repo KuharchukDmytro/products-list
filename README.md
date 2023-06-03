@@ -19,3 +19,5 @@
   <li>Start json-server <code>json-server --watch db.json</code></li>
   <li>Run the app with <code>npm start</code></li>
 </ol>
+
+<a href="https://kuharchukdmytro.github.io/products-list/">DEMO LINK</a>
