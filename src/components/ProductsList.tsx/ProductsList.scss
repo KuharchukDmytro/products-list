@@ -1,0 +1,11 @@
+@import '../../style_utils/mixins';
+
+.products-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+  max-width: 912px;
+  padding: 16px;
+  margin: 0 auto;
+}
